@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="[https://github.com/digital-craftsmen/.github/peony-logo.png](https://github.com/Digital-Craftsmen/.github/blob/main/peony-logo.png)" width="300" />
+  <img src="https://github.com/Digital-Craftsmen/.github/blob/main/peony-logo.png" width="300" />
 </div>
 
 <div id="badges" align="center">
@@ -18,14 +18,11 @@
 <img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
 </div>
 
-https://github.com/Digital-Craftsmen
 
 ## My Stats
 <div align="center">
   
-[![Stats](https://github-readme-streak-stats.herokuapp.com?user=digital-craftsmen&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digital-Craftsmen&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 </div>
   
 - 👋 Hi, Welcome We're a new Company for building awesome apps!
