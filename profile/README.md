@@ -1,12 +1,33 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+<div id="header" align="center">
+  <img src="https://github.com/Digital-Craftsmen/.github/blob/main/peony-logo.png" width="300" />
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div id="badges" align="center">
+ 
+  <a href="https://www.digitalcraftsmen.io">
+    <img src="https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
+  </a>
+  
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+## My Stats
+<div align="center">
+  
+
+</div>
+  
+- 👋 Hi, Welcome We're a new Company for building awesome apps!
+- 🌱 I’m currently working on a Code Snippet and Documentation App
+- 📫 How to reach me ... business@digitalcraftsmen.io
+
+<!---
+willvernon/willvernon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
