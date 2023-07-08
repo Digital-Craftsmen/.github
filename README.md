@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/willvernon/Gifs/blob/main/coding.gif" width="300" />
+  <img src="https://github.com/digital-craftsmen/.github/peony-logo.png" width="300" />
 </div>
 
 <div id="badges" align="center">
