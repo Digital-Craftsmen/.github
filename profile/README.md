@@ -6,10 +6,7 @@
 </div>
 
 <div id="badges" align="center">
- 
-  <a href="https://www.digitalcraftsmen.io">
-    <img src="https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
-  </a>
+
   
 </div>
 <div align="center">
