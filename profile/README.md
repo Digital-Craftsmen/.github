@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-<div id="header" align="center">
-  <img src="https://github.com/Digital-Craftsmen/.github/blob/main/peony-logo.png" width="300" />
-</div>
+
 
 <div id="badges" align="center">
 
